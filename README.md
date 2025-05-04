@@ -2,12 +2,13 @@
 <h3 align="center"> Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" alt="Developer Icon">
+  <img src="https://img.icons8.com/ios/50/000000/programming.png" width="150" alt="Developer Icon">
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  Full-stack mobile developer with <strong>3+ years</strong> experience building production-ready apps with 100k+ cumulative downloads. Specialized in Flutter architecture, cross-platform solutions, and mentoring developers. Passionate about creating apps that solve real-world problems while delivering exceptional user experiences.
+  Full-stack mobile developer with <strong>1+ years</strong> Flutter mobile applications developer with one year of experience in building modern mobile apps.
+I specialize in designing and developing smooth and modern user interfaces with a strong focus on user experience and app performance. I have experience integrating applications with APIs, working with databases like Firebase, implementing multilingual support (Localization), and managing app state using Cubit/Bloc.
 </p>
 
 ---
@@ -15,29 +16,17 @@
 <h2 align="center">💼 Professional Experience</h2>
 
 ### **TOP BUSINESS** (On-site) | _Flutter Developer_  
-**July 2023 - Present**  
-- Led development of 8+ commercial apps including Elmazoon (4k+ students), Beda3a, and MedoSedo
+** 2024 - Present**  
 - Architected solutions using Clean Architecture with Cubit/Provider state management
 - Integrated complex features: Payment gateways, Google Maps, Firebase FCM, and Odoo ERP
-- Successfully published 20+ apps on Google Play & App Store with 4.8+ avg rating
-
-### **NeuralBey** (Remote) | _Flutter Developer_  
-**March 2023 - Present**  
-- Built Cheebo pet community app from concept to production (10k+ users)
-- Implemented real-time chat, e-commerce, and vet consultation features
-- My app offers interactive post management for a lively community, with features to add, edit, and delete posts. Users can effortlessly connect through secure chat, add or search for pets, and enjoy streamlined e-commerce for pet supplies. The geolocation feature enhances convenience, simplifying the search for nearby veterinarians to elevate the overall pet care experience.
-### **GDSC FSS Tunis** | _Flutter Mentor_  
-**2022 - Present**  
-- Trained 50+ students through 8 intensive Dart/Flutter workshops
-- Created project-based curriculum covering REST APIs, Firebase, and BLoC
----
-
+- Successfully published 20+ apps on Google Play
+  
 <h2 align="center">🎯 Technical Expertise</h2>
 
 <p align="center">
   <strong>Core:</strong> Flutter | Dart | Clean Architecture | SOLID Principles<br>
-  <strong>State Management:</strong> BLoC | Cubit | Provider | Getx<br>
-  <strong>Backend:</strong> Firebase | Node.js | REST APIs | JWT<br>
+  <strong>State Management:</strong> BLoC | Cubit | Provider <br>
+  <strong>Backend:</strong> Firebase  | REST APIs | JWT<br>
   <strong>Database:</strong> SQLite | Hive | SharedPreferences | MongoDB<br>
   <strong>DevOps:</strong> GitHub Actions | Play Console<br>
   <strong>UI/UX:</strong> Material Design | Responsive Layouts | Lottie Animations<br>
@@ -76,16 +65,14 @@
 
 | Project | Description | Technologies | Highlights |
 |---------|-------------|--------------|------------|
-| **[Cheebo](https://play.google.com/store/apps/details?id=com.neuralbey.cheebo)** | Pet Community App (10k+ users) | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet e-consultation feature |
-| **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Live sessions & exam system |
+| **[At3aby](https://play.google.com/store/apps/details?id=com.topbusiness.ataaby)** | innovative legal app   | Flutter| • Real-time chat system<br>|
+| **[Carblats](https://play.google.com/store/apps/details?id=com.topbusiness.carblats&hl=en)** | An innovative platform designed to facilitate the process of buying and selling distinctive car plates. | Flutter, Firebase  |
+| **[Well Seven](https://play.google.com/store/apps/details?id=com.topbusiness.wellsevendelivery_new&hl=en)** | Grocery Marketplace | Flutter, Firebase, Google Maps | • Fresh food marketplace (meat, fish, produce)<br>• Seller product listings<br>• Quality rating system<br>• 1-hour delivery guarantee<br>• Interactive shopping cart
 | **[MedoSedo](https://play.google.com/store/apps/details?id=com.topbusiness.medosedo_ecom)** | Multi-Vendor E-commerce | Flutter, Odoo, Payment Gateways | • 15% conversion boost<br>• Vendor management system |
 | **[Deals CRM](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP | • Automated reporting<br>• 20% team productivity gain |
 | **[unocafe HR](https://play.google.com/store/apps/details?id=com.topbusiness.unocafe)** | Employee Management | Flutter, Firebase | • Attendance tracking<br>• Salary/payroll automation |
 | **[Salony](https://play.google.com/store/apps/details?id=com.topbusiness.salony)** | Beauty Services Marketplace | Flutter, Firebase, Google Maps | • Salon booking system<br>• Service provider ratings<br>• Geo-based recommendations<br>• Product catalog integration |
-| **[Wallpaper Hub](https://github.com/Ahmedelsapagh10/wallpaper-hub)** | Image Discovery App | Flutter, BLoC, Dio | • Offline-first design<br>• Advanced search filters |
-| **[NT Express](https://read.cv/elsapagh)** | Logistics Solution | Flutter, Google Maps | • Real-time tracking<br>• Delivery optimization |
-| **[Well Seven](https://play.google.com/store/apps/details?id=com.topbusiness.well_seven_new)** | Grocery Marketplace | Flutter, Firebase, Google Maps | • Fresh food marketplace (meat, fish, produce)<br>• Seller product listings<br>• Quality rating system<br>• 1-hour delivery guarantee<br>• Interactive shopping cart
-| **[Beda3a](https://play.google.com/store/apps/details?id=com.topbusiness.bed3aecom)** | Deals & Discounts App | Flutter, Odoo | • Geo-targeted offers<br>• Coupon management |
+
 
 ---
 

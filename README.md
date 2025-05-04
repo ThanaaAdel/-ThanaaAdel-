@@ -68,10 +68,10 @@ I specialize in designing and developing smooth and modern user interfaces with 
 | **[At3aby](https://play.google.com/store/apps/details?id=com.topbusiness.ataaby)** | innovative legal app   | Flutter| • Real-time chat system<br>|
 | **[Carblats](https://play.google.com/store/apps/details?id=com.topbusiness.carblats&hl=en)** | An innovative platform designed to facilitate the process of buying and selling distinctive car plates. | Flutter, Firebase  |
 | **[Well Seven](https://play.google.com/store/apps/details?id=com.topbusiness.wellsevendelivery_new&hl=en)** | Grocery Marketplace | Flutter, Firebase, Google Maps | • Fresh food marketplace (meat, fish, produce)<br>• Seller product listings<br>• Quality rating system<br>• 1-hour delivery guarantee<br>• Interactive shopping cart
-| **[MedoSedo](https://play.google.com/store/apps/details?id=com.topbusiness.medosedo_ecom)** | Multi-Vendor E-commerce | Flutter, Odoo, Payment Gateways | • 15% conversion boost<br>• Vendor management system |
-| **[Deals CRM](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP | • Automated reporting<br>• 20% team productivity gain |
+| **[People](https://play.google.com/store/apps/details?id=net.topbusiness.people)** | application is a human resources management application that helps organize employee attendance and departure, follow up on leave requests, manage daily tasks, and calculate salaries | Flutter, Odoo |
+| **[Deals](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP | • Automated reporting<br>• 20% team productivity gain |
 | **[unocafe HR](https://play.google.com/store/apps/details?id=com.topbusiness.unocafe)** | Employee Management | Flutter, Firebase | • Attendance tracking<br>• Salary/payroll automation |
-| **[Salony](https://play.google.com/store/apps/details?id=com.topbusiness.salony)** | Beauty Services Marketplace | Flutter, Firebase, Google Maps | • Salon booking system<br>• Service provider ratings<br>• Geo-based recommendations<br>• Product catalog integration |
+
 
 
 ---

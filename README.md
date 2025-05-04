@@ -2,7 +2,7 @@
 <h3 align="center"> Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="150" alt="Developer Icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" alt="Developer Icon">
 </p>
 
 <h2 align="center">🚀 About Me</h2>

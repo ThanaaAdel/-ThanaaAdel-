@@ -82,12 +82,6 @@ I specialize in designing and developing smooth and modern user interfaces with 
 - **B.Sc in Information Technology**  
   Menoufia University (2018-2022)  
   GPA: 3.8/4.0 | Rank: Top 10%  
-  **Award:** 2nd Place - AR Pharmacy System (University Competition)
-
-- **Certifications:**  
-  • Google Devloper Student Club In Tunisia  
-  • Clean Architecture Specialist
-
 ---
 
 <h2 align="center">📈 GitHub Impact</h2>
@@ -106,10 +100,8 @@ I specialize in designing and developing smooth and modern user interfaces with 
 - **GDSC Tunis:** Lead Flutter mentor
 
 <div align="center">
-  <a href="https://www.youtube.com/@ahmed_elsapagh" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/ahmed-elsapagh-aa8010220/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/thana-adel-463b97223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
@@ -119,6 +111,6 @@ I specialize in designing and developing smooth and modern user interfaces with 
 <h2 align="center">📬 Let's Build Tomorrow</h2>
 <p align="center">
   Ready to turn your app idea into reality?<br>
-  <a href="mailto:ahmedelsapagh179@gmail.com">📧 Email Me</a> | 
-  <a href="https://read.cv/elsapagh">📄 View CV</a>
-</p>
+  <a href="swaadl9712gmail.com">📧 Email Me</a> | 
+<!--   <a href="https://read.cv/sanaa">📄 View CV</a>
+</p> -->

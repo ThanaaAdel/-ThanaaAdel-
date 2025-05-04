@@ -91,15 +91,7 @@ I specialize in designing and developing smooth and modern user interfaces with 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsapagh10&theme=nightowl" alt="GitHub Streak">
 </p>
 
----
 
-<h2 align="center">🌟 Community Presence</h2>
-
-- **YouTube:** 100+ Flutter tutorials (5.1k+ subs)
-- **Medium:** Technical writer (15k+ reads)
-- **GDSC Tunis:** Lead Flutter mentor
-
-<div align="center">
 
   <a href="https://www.linkedin.com/in/thana-adel-463b97223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
